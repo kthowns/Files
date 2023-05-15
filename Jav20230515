@@ -1,0 +1,6 @@
+1. GUI
+ -> API 사용 (AWT, Swing)
+  --> AWT : 플랫폼 의존적, 무겁고 look and feel 지원x
+  --> Swing : 플랫폼 독립적, 가볍고 look and feel 지원o
+  #JAVA 11 이상 버전에서 실습 시 모듈화 문제로 Import 에러 발생
+   -> module-info.java 파일에 requires deskstop; requires sql; 내용 추가하면 해결
