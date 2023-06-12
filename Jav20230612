@@ -1,0 +1,10 @@
+20230612
+
+자료형 길이?
+자바는 Word 길이 픽스
+
+<File I/O Stream>
+FileReader
+FileWriter
+with try-catch
+ObjectStream class : 객체를 파일에 Read/Write 하는 클래스, 객체 직렬화
